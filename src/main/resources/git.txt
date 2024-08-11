@@ -1,0 +1,10 @@
+git init //tao git
+git status // trang thai cua git
+git add [...] // tai het len git
+git commit -m [messaage]
+git branch -M main
+git push -u origin [url]
+git checkout -b [branh_name]
+
+-- Tao nhanh va chuyen qua do luon
+git checkout -b[branch_name]
