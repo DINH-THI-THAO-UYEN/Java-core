@@ -4,5 +4,4 @@ git add [...] // tai het len git
 git commit -m [messaage]
 git remote add origin [url]  //tai code len web git
 git branch -M main  //tao cấu hình nhánh chính
-git push -u origin main
 //tạo tên cho nhánh chính
