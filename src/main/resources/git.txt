@@ -1,0 +1,8 @@
+git init
+git --version //xem đã taải và kết nối đc vs git chưa
+// Nếu chưa kết nối đc thì tạo file .gitignore trong target
+// Những file ko cần push lên git là .DS_Store, target và .idea
+git status
+// trạng thái các file có trong project
+git add
+// truyền vào các thông tin
